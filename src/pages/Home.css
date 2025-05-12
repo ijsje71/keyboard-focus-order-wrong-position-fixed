@@ -1,0 +1,7 @@
+ion-segment-button.ion-focused {
+  outline: 2px solid var(--ion-color-primary);
+}
+
+#messages-list {
+  padding-top: 25px;
+}
